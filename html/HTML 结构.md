@@ -441,7 +441,7 @@ all         所有
 
   如果在文档中忽略了`<head>`标签，则大部分浏览器会自动创建一个`<head>`元素
 
-  关于文档头部的更多信息[移步至此](http://www.cnblogs.com/xiaohuochai/p/6214015.html)
+ 
 
  
 
@@ -626,7 +626,7 @@ font-style: italic;
 
   除了上面介绍的`<div>`、`<h>`、`<p>`、`<hr>`、`<blockquote>`、`<address>`标签外，还有一些标签属于块级标签
 
-  包括[骨架类](http://www.cnblogs.com/xiaohuochai/p/6216649.html)标签(`<html>`、`<body>`)，[列表类](http://www.cnblogs.com/xiaohuochai/p/5046656.html)标签(`<ul>`、`<ol>`、`<dl>`、`<dd>`、`<dt>`)，[表单类](http://www.cnblogs.com/xiaohuochai/p/5174891.html)标签(`form`、`<fieldset>`、`<output>`、`<legend>`、`<optgroup>`、`<option>`)，HTML5新增的[结构](http://www.cnblogs.com/xiaohuochai/p/5087815.html)标签(`<article>`、`<aside>`、`<header>`、`<footer>`、`<nav>`、`<section>`)，HTML5新增的[多媒体](http://www.cnblogs.com/xiaohuochai/p/5008341.html)标签(`<figure>`、`<figcaption>`)，HTML5新增的[功能性](http://www.cnblogs.com/xiaohuochai/p/5090109.html)标签(`<summary>`、`<details>`)
+  包括骨架类标签(`<html>`、`<body>`)，列表类标签(`<ul>`、`<ol>`、`<dl>`、`<dd>`、`<dt>`)，表单类标签(`form`、`<fieldset>`、`<output>`、`<legend>`、`<optgroup>`、`<option>`)，HTML5新增的结构标签(`<article>`、`<aside>`、`<header>`、`<footer>`、`<nav>`、`<section>`)，HTML5新增的多媒体标签(`<figure>`、`<figcaption>`)，HTML5新增的功能性标签(`<summary>`、`<details>`)
 
  
 
